@@ -1,0 +1,10 @@
+<html>
+   <head>
+      <title>HTML Backgorund Color</title>
+   </head>
+   <body style="background-color:grey;">
+        <h1>HELLO WORLD !!</h1>
+        <h2>I AM PALLAVI ALANKA</h2>
+
+   </body>
+</html>
